@@ -1,0 +1,14 @@
+/Users/frank/Coding/Snow/cs2420/hw/hw3/bin/Debug/net10.0/hw3
+/Users/frank/Coding/Snow/cs2420/hw/hw3/bin/Debug/net10.0/hw3.deps.json
+/Users/frank/Coding/Snow/cs2420/hw/hw3/bin/Debug/net10.0/hw3.runtimeconfig.json
+/Users/frank/Coding/Snow/cs2420/hw/hw3/bin/Debug/net10.0/hw3.dll
+/Users/frank/Coding/Snow/cs2420/hw/hw3/bin/Debug/net10.0/hw3.pdb
+/Users/frank/Coding/Snow/cs2420/hw/hw3/obj/Debug/net10.0/hw3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/frank/Coding/Snow/cs2420/hw/hw3/obj/Debug/net10.0/hw3.AssemblyInfoInputs.cache
+/Users/frank/Coding/Snow/cs2420/hw/hw3/obj/Debug/net10.0/hw3.AssemblyInfo.cs
+/Users/frank/Coding/Snow/cs2420/hw/hw3/obj/Debug/net10.0/hw3.csproj.CoreCompileInputs.cache
+/Users/frank/Coding/Snow/cs2420/hw/hw3/obj/Debug/net10.0/hw3.dll
+/Users/frank/Coding/Snow/cs2420/hw/hw3/obj/Debug/net10.0/refint/hw3.dll
+/Users/frank/Coding/Snow/cs2420/hw/hw3/obj/Debug/net10.0/hw3.pdb
+/Users/frank/Coding/Snow/cs2420/hw/hw3/obj/Debug/net10.0/hw3.genruntimeconfig.cache
+/Users/frank/Coding/Snow/cs2420/hw/hw3/obj/Debug/net10.0/ref/hw3.dll
