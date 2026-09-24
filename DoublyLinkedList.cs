@@ -156,9 +156,16 @@ public class DoublyLinkedList
         head = tail;
         tail = temp;
     }
+    // ===================================
+    // Time Complexity - O(n)
+    // The loop visits each node exactly once and swaps its prev and next. 
+    // ==================================
 
     // ========================================================
-    // Partition - 
+    // Partition - Dummy chains are used to collect values < x and >= x
+    // current node is used to traverse list
+    // prev1 and prev 2 serve as end pointers for each of the dummy chains
+    // The end of the < chain is connected to the start of the >= chain
     // ========================================================
     public void PartitionList(int x)
     {
@@ -210,6 +217,10 @@ public class DoublyLinkedList
         else 
             tail = prev1;
     }
+    // =========================================
+    // Time Complexity - O(n)
+    // This only passes through the list a single time
+    // ==========================================
 
     
 
